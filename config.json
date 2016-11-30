@@ -8,8 +8,8 @@
     "text": "Kalle Falck"
   },
   "text": {
-    "more": "Grouped and colored with modularity. Size based on degree. \nNodes with degree \u003c 10 are filtered out",
-    "intro": "Grouped and colored with modularity. Size based on degree. \nNodes with degree \u003c 10 are filtered out",
+    "more": "Grouped and colored with modularity. Size based on degree. \nNodes with degree \u003c 15 are filtered out",
+    "intro": "Grouped and colored with modularity. Size based on degree. \nNodes with degree \u003c 15 are filtered out",
     "title": "Twitter Network of Reaktor @ReaktorNow"
   },
   "legend": {
@@ -24,7 +24,7 @@
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": false
+    "imageAttribute": "image"
   },
   "sigma": {
     "drawingProperties": {

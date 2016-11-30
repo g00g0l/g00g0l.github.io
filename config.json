@@ -8,9 +8,9 @@
     "text": "Kalle Falck"
   },
   "text": {
-    "more": "test",
-    "intro": "test",
-    "title": "test"
+    "more": "Grouped and colored with modularity. Size based on degree. \nNodes with degree \u003c 10 are filtered out",
+    "intro": "Grouped and colored with modularity. Size based on degree. \nNodes with degree \u003c 10 are filtered out",
+    "title": "Twitter Network of Reaktor"
   },
   "legend": {
     "edgeLabel": "A follower/followee relationship between two accounts",

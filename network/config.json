@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Kalle Falck"
+  },
+  "text": {
+    "more": "Grouped and colored with modularity. Size based on degree. \nNodes with degree \u003c 10 are filtered out",
+    "intro": "Grouped and colored with modularity. Size based on degree. \nNodes with degree \u003c 10 are filtered out",
+    "title": "Twitter Network of Reaktor"
+  },
+  "legend": {
+    "edgeLabel": "A follower/followee relationship between two accounts",
+    "colorLabel": "Colour represents an automatic grouping of users according to who they are most connected to.",
+    "nodeLabel": "A twitter account"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "color",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "image"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}

@@ -4,7 +4,7 @@
   "data": "data.json",
   "logo": {
     "file": "",
-    "link": "",
+    "link": "http://kallefalck.me/",
     "text": "Kalle Falck"
   },
   "text": {
@@ -43,7 +43,7 @@
       "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxNodeSize": 15
     },
     "mouseProperties": {
       "maxRatio": 20,
